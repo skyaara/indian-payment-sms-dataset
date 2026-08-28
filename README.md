@@ -64,6 +64,17 @@ The complete source ledger is in [SOURCES.md](SOURCES.md). Each row carries `sou
 
 The corpus includes independently authored rewrites informed by licensed OSS projects under MIT, AGPL-3.0, and GPL-3.0. Third-party projects remain under their own licenses; this repository does not relicense their source code or text.
 
+Direct credits:
+
+- [abhirajsinha/omoi-sms-parser](https://github.com/abhirajsinha/omoi-sms-parser) — MIT
+- [MabudAlam/transaction_sms_parser](https://github.com/MabudAlam/transaction_sms_parser) — MIT
+- [`upi_sms_parser`](https://pub.dev/packages/upi_sms_parser) — MIT
+- [saurabhgupta050890/transaction-sms-parser](https://github.com/saurabhgupta050890/transaction-sms-parser) — MIT
+- [sarim2000/pennywiseai-tracker](https://github.com/sarim2000/pennywiseai-tracker) — AGPL-3.0 pattern reference
+- [wealth-wave/Auto-Expense-Tracker](https://github.com/wealth-wave/Auto-Expense-Tracker) — GPL-3.0 pattern reference
+
+See [SOURCES.md](SOURCES.md) for pinned revisions, detailed provenance, excluded sources, and attribution requirements.
+
 ## License
 
 The SplitEasy-authored synthetic dataset and documentation in this repository are available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Please credit **SplitEasy contributors, Indian Payment SMS Corpus**, and link to this repository.
